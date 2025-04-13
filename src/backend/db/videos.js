@@ -199,15 +199,6 @@ export const videos = [
   },
 
   {
-    _id: "bZhmuKuAedo",
-    category: "Soundscapes",
-    genreName:"Stars",
-    title: "Walk with me",
-    creator: "Bella Thorne",
-    thumbnail:"https://images.hdqwalls.com/download/orange-light-abstract-9l-2560x1440.jpg",
-  },
-
-  {
     _id: "JHwEbYl4USE",
     category: "Soundscapes",
     genreName:"Stars",
@@ -216,14 +207,6 @@ export const videos = [
     thumbnail:"https://images.hdqwalls.com/download/hexa-polygon-soothing-lights-4k-cz-2560x1440.jpg",
   },
 
-  // {
-  //   _id: "SWBTrswQ3UQ",
-  //   category: "Soundscapes",
-  //   genreName:"Stars",
-  //   title: "Tum Kyun Chale",
-  //   creator: "Lofi",
-  //   thumbnail:"https://images.hdqwalls.com/download/low-poly-red-3d-abstract-4k-yq-2560x1440.jpg",
-  // },
 
   {
     _id: "SMkLdYK-9IE",
@@ -235,11 +218,11 @@ export const videos = [
   },
 
   {
-    _id: "47dTIdJPfzQ",
+    _id: "null",
     category: "Soundscapes",
     genreName:"Rainbow",
-    title: "Kyun Dil Mera",
-    creator: "Mohit Chauhan",
+    title: "null",
+    creator: "null",
     thumbnail:"https://images.hdqwalls.com/download/color-powder-spray-abstract-4k-vh-2560x1440.jpg",
   },
 
